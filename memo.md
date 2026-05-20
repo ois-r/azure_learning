@@ -40,7 +40,7 @@
 
 ### 2026/05/06
 
-- azure・・・dockerで作ったコンテナなどを、公開するクラウド。ソフトウェアとクラウドで、GitとGitHubみたいなもの
+- azure・・・dockerで作ったコンテナなどを、公開するクラウド。ソフトウェアとクラウドで、GitとGitHub(azure)みたいなもの
 
 - このAzureも上の使いたいコンテナオーケストレーションによって様々なプランがある
 
@@ -49,3 +49,18 @@
 - 専有コンピュート・・・自分専用の物理サーバーがあるイメージ。カーネルも自分だけのもの。こっちはAzure App Serviceのpremiumプランとか
 
 - 多分VM＝サーバーって意味やと思われる
+
+
+### 2026/05/14
+
+- DevOps・・・development(開発)とoperations(運用)を合わせた言葉、ソフトウェアの開発、デプロイ運用までのアプローチ
+
+### 2026/05/17
+CLI・・・Command Line Interface↔️　GUI
+
+- docker desktopのインストール
+- Azure CLI・・・CLIをインストールすることで、ブラウザ上でAzureを開いて操作するのに加えて、ターミナル上でもAzureを操作できるようになる（azコマンドが使えるようになる）
+
+- Azure Developer CLI・・・Azure CLIの進化系、Azure CLIだとたくさんの手順を踏まなければならない操作を、1つの手順で完結できる（azdコマンド）
+
+- GitHub CLI・・・今までGitHub開いてNew Repositoryとかしてたのを、ターミナルからコマンド操作で行えるようになる(ghコマンド)
